@@ -8,6 +8,7 @@ public class RESTAPITest {
 	public void postjira()
 	{
 		System.out.println("postjira");
+		System.out.println("Changes done Y");
 	}
 	
 	
