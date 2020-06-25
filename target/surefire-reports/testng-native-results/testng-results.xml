@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="78" started-at="2020-06-22T12:04:16 IST" finished-at="2020-06-22T12:04:16 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="78" started-at="2020-06-22T12:04:16 IST" finished-at="2020-06-22T12:04:16 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="mobileapi()[pri:0, instance:qaclickacademy.AppiumTest@7d907bac]" name="mobileapi" duration-ms="9" started-at="2020-06-22T12:04:16 IST" finished-at="2020-06-22T12:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapi -->
+        <test-method status="PASS" signature="mobileautomation()[pri:0, instance:qaclickacademy.AppiumTest@7d907bac]" name="mobileautomation" duration-ms="1" started-at="2020-06-22T12:04:16 IST" finished-at="2020-06-22T12:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileautomation -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

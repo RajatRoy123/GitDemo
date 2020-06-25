@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="mobileapi()[pri:0, instance:qaclickacademy.AppiumTest@731a74c]" name="mobileapi" duration-ms="7" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapi -->
+        <test-method status="PASS" signature="mobileautomation()[pri:0, instance:qaclickacademy.AppiumTest@731a74c]" name="mobileautomation" duration-ms="1" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileautomation -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="webapi()[pri:0, instance:qaclickacademy.SeleniumTest@369f73a2]" name="webapi" duration-ms="1" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webapi -->
+        <test-method status="PASS" signature="webautomation()[pri:0, instance:qaclickacademy.SeleniumTest@369f73a2]" name="webautomation" duration-ms="1" started-at="2020-06-22T12:39:42 IST" finished-at="2020-06-22T12:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webautomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
