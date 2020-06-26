@@ -7,7 +7,7 @@ public class SeleniumTest {
 	@Test
 	public void webautomation()
 	{
-		System.out.println("webautomation");
+		System.out.println("webautomation develp");
 	}
 	
 	
