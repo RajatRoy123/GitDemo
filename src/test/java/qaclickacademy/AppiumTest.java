@@ -22,6 +22,13 @@ public class AppiumTest {
 			
 		}
 		
+		@Test
+		public void iocapi()
+		{
+			System.out.println("ioc");
+			
+		}
+		
 	}
 
 
